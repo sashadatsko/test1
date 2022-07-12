@@ -1,0 +1,8 @@
+#vscode
+.vscode/
+main.dSYM/
+.DS_Store
+
+#project
+main
+bin/*.o
